@@ -32,7 +32,7 @@ A collection of Arduino projects covering drones, robots, wearables, home automa
 
 All work in this repository complies with [Toronto Metropolitan University’s Senate Policy 60 – Academic Integrity](https://www.torontomu.ca/senate/policies/pol60.pdf).  
 
-Use of this material should support learning and not violate course or institutional academic integrity standards.
+Use of this material should support learning and not violate academic integrity standards.
 
 ---
 
